@@ -1,5 +1,5 @@
 {
 "version" : "3.16",
-"showAds" : false,
+"showAds" : true,
 "valueCount" : true
 }
